@@ -1,0 +1,432 @@
+[
+    {
+        "id":"borcego-folks",
+    "titulo":"Borcego Folks",
+    "imagen":"./img/borcego-01.webp",
+    "categoria": {
+        "nombre":"Borcegos",
+        "id": "borcegos"
+    },
+   "precio": 149000
+    },
+    {
+        "id":"borcego-estrilicia",
+        "titulo":"Borcego Estrilicia",
+        "imagen":"./img/borcego-02.webp",
+        "categoria": {
+        "nombre":"Borcegos",
+        "id":"borcegos" 
+    },
+   "precio": 115000
+    },
+    {
+        "id":"borcego-fiona",
+    "titulo":"Borcego Fiona",
+    "imagen":"./img/borcego-03.webp",
+    "categoria": {
+        "nombre":"Borcegos",
+        "id":"borcegos"
+    },
+   "precio": 138000
+    },
+    {
+        "id":"borcego-felisa",
+    "titulo":"Borcego Felisa",
+    "imagen":"./img/borcego-04.webp",
+    "categoria": {
+        "nombre":"Borcegos",
+        "id":"borcegos"
+    },
+   "precio": 169000
+    },
+    {
+        "id":"borcego-fauna",
+    "titulo":"Borcego Fauna",
+    "imagen":"./img/borcego-05.webp",
+    "categoria": {
+        "nombre":"Borcegos",
+        "id":"borcegos"
+    },
+   "precio": 139000
+    },
+    {
+        "id":"borcego-farani",
+    "titulo":"Borcego Farani",
+    "imagen":"./img/borcego-06.webp",
+    "categoria": {
+        "nombre":"Borcegos",
+        "id":"borcegos"
+    },
+   "precio": 139000
+    },
+    {
+        "id":"borcego-hazel",
+    "titulo":"Borcego Hazel",
+    "imagen":"./img/borcego-07.webp",
+    "categoria": {
+        "nombre":"Borcegos",
+        "id":"borcegos"
+    },
+   "precio": 149000
+    },
+    {
+        "id":"borcego-serrano",
+    "titulo":"Borcego Serrano",
+    "imagen":"./img/borcego-08.webp",
+    "categoria": {
+        "nombre":"Borcegos",
+        "id":"borcegos"
+    },
+   "precio": 137000
+    },
+    {
+        "id":"texana-iby",
+    "titulo":"Texana Iby",
+    "imagen":"./img/texana-01.webp",
+    "categoria": {
+        "nombre":"Texanas",
+        "id":"texanas"
+    },
+   "precio": 159000
+    },
+    {
+        "id":"texana-itzel",
+    "titulo":"Texana Itzel",
+    "imagen":"./img/texana-02.png",
+    "categoria": {
+        "nombre":"Texanas",
+        "id":"texanas"
+    },
+   "precio": 149000
+    },
+    {
+        "id":"texana-ivone",
+    "titulo":"Texana Ivone",
+    "imagen":"./img/texana-03.png",
+    "categoria": {
+        "nombre":"Texanas",
+        "id":"texanas"
+    },
+   "precio": 198000
+    },
+    {
+        "id":"texana-darya",
+    "titulo":"Texana Darya",
+    "imagen":"./img/texana-04.webp",
+    "categoria": {
+        "nombre":"Texanas",
+        "id":"texanas"
+    },
+   "precio": 221900
+    },
+    {
+        "id":"texana-iby-jean",
+    "titulo":"Texana Iby Jean",
+    "imagen":"./img/texana-05.png",
+    "categoria": {
+        "nombre":"Texanas",
+        "id":"texanas"
+    },
+   "precio": 155000
+    },
+    {
+        "id":"texana-ilabela",
+    "titulo":"Texana Ilabela",
+    "imagen":"./img/texana-06.webp",
+    "categoria": {
+        "nombre":"Texanas",
+        "id":"texanas"
+    },
+   "precio": 149000
+    },
+    {
+        "id":"zapatilla-clooney",
+    "titulo":"Zapatilla Clooney",
+    "imagen":"./img/zapatilla-01.webp",
+    "categoria": {
+        "nombre":"Zapatillas",
+        "id":"zapatillas"
+    },
+   "precio": 159000
+    },
+    {
+        "id":"zapatilla-conan",
+    "titulo":"Zapatilla Conan",
+    "imagen":"./img/zapatilla-02.webp",
+    "categoria": {
+        "nombre":"Zapatillas",
+        "id":"zapatillas"
+    },
+   "precio": 159000
+    },
+    {
+        "id":"zapatilla-cali",
+    "titulo":"Zapatilla Cali Negro",
+    "imagen":"./img/zapatilla-03.webp",
+    "categoria": {
+        "nombre":"Zapatillas",
+        "id":"zapatillas"
+    },
+   "precio": 136000
+    },
+    {
+        "id":"zapatilla-cali",
+    "titulo":"Zapatilla Cali Beige",
+    "imagen":"./img/zapatilla-04.webp",
+    "categoria": {
+        "nombre":"Zapatillas",
+        "id":"zapatillas"
+    },
+   "precio": 136000
+    },
+    {
+        "id":"zapatilla-cent",
+    "titulo":"Zapatilla Cent Blanco",
+    "imagen":"./img/zapatilla-05.webp",
+    "categoria": {
+        "nombre":"Zapatillas",
+        "id":"zapatillas"
+    },
+   "precio": 139000
+    },
+    {
+        "id":"zapatilla-coti",
+    "titulo":"Zapatilla Coti",
+    "imagen":"./img/zapatilla-06.webp",
+    "categoria": {
+        "nombre":"Zapatillas",
+        "id":"zapatillas"
+    },
+   "precio": 139000
+    },
+    {
+        "id":"zapatilla-cent",
+    "titulo":"Zapatilla Cent Hueso",
+    "imagen":"./img/zapatilla-07.webp",
+    "categoria": {
+        "nombre":"Zapatillas",
+        "id":"zapatillas"
+    },
+   "precio": 139000
+    },
+    {
+        "id":"zapatilla-ciryl",
+    "titulo":"Zapatilla Ciryl",
+    "imagen":"./img/zapatilla-08.webp",
+    "categoria": {
+        "nombre":"Zapatillas",
+        "id":"zapatillas"
+    },
+   "precio": 93000
+    },
+    {
+        "id":"zapatilla-ciro",
+    "titulo":"Zapatilla Ciro",
+    "imagen":"./img/zapatilla-09.webp",
+    "categoria": {
+        "nombre":"Zapatillas",
+        "id":"zapatillas"
+    },
+   "precio": 93000
+    },
+    {
+        "id":"zapatilla-charliz",
+    "titulo":"Zapatilla Charliz",
+    "imagen":"./img/zapatilla-010.webp",
+    "categoria": {
+        "nombre":"Zapatillas",
+        "id":"zapatillas"
+    },
+   "precio": 93000
+    },
+    {
+        "id":"sandalia-morrison",
+    "titulo":"Sandalia Morrison",
+    "imagen":"./img/zapato-01.webp",
+    "categoria": {
+        "nombre":"Zapatos",
+        "id":"zapatos"
+    },
+   "precio": 62900
+    },
+    {
+        "id":"sandalia-mirko",
+    "titulo":"Sandalia Mirko",
+    "imagen":"./img/zapato-02.webp",
+    "categoria": {
+        "nombre":"Zapatos",
+        "id":"zapatos"
+    },
+   "precio": 70000
+    },
+    {
+        "id":"sandalia-murray",
+    "titulo":"Sandalia Murray",
+    "imagen":"./img/zapato-03.webp",
+    "categoria": {
+        "nombre":"Zapatos",
+        "id":"zapatos"
+    },
+   "precio": 58500
+    },
+    {
+        "id":"sandalia-nicky",
+    "titulo":"Sandalia Nicky",
+    "imagen":"./img/zapato-04.webp",
+    "categoria": {
+        "nombre":"Zapatos",
+        "id":"zapatos"
+    },
+   "precio": 122000
+    },
+    {
+        "id":"sandalia-nicky-onix",
+    "titulo":"Sandalia Nicky Onix",
+    "imagen":"./img/zapato-05.webp",
+    "categoria": {
+        "nombre":"Zapatos",
+        "id":"zapatos"
+    },
+   "precio": 125000
+    },
+    {
+        "id":"sandalia-melburn",
+    "titulo":"Sandalia Melburn",
+    "imagen":"./img/zapato-06.webp",
+    "categoria": {
+        "nombre":"Zapatos",
+        "id":"zapatos"
+    },
+   "precio": 87500
+    },
+    {
+        "id":"sandalia-mars",
+    "titulo":"Sandalia Mars",
+    "imagen":"./img/zapato-07.webp",
+    "categoria": {
+        "nombre":"Zapatos",
+        "id":"zapatos"
+    },
+   "precio": 87500
+    },
+    {
+        "id":"sandalia-narcisa",
+    "titulo":"Sandalia Narcisa",
+    "imagen":"./img/zapato-08.webp",
+    "categoria": {
+        "nombre":"Zapatos",
+        "id":"zapatos"
+    },
+   "precio": 87500
+    },
+    {
+        "id":"accesorio-venka",
+    "titulo":"Billetera Venka",
+    "imagen":"./img/accesorio-01.webp",
+    "categoria": {
+        "nombre":"Accesorios",
+        "id":"accesorios"
+    },
+   "precio": 43000
+    },
+    {
+        "id":"accesorio-toia",
+    "titulo":"Mochila Toia",
+    "imagen":"./img/accesorio-02.webp",
+    "categoria": {
+        "nombre":"Accesorios",
+        "id":"accesorios"
+    },
+   "precio": 79000
+    },
+    {
+        "id":"accesorio-vitta",
+    "titulo":"Billetera Vitta Menta",
+    "imagen":"./img/accesorio-03.webp",
+    "categoria": {
+        "nombre":"Accesorios",
+        "id":"accesorios"
+    },
+   "precio": 39000
+    },
+    {
+        "id":"accesorio-saly",
+    "titulo":"Cartera Saly",
+    "imagen":"./img/accesorio-04.webp",
+    "categoria": {
+        "nombre":"Accesorios",
+        "id":"accesorios"
+    },
+   "precio": 75000
+    },
+    {
+        "id":"accesorio-vitta",
+    "titulo":"Billetera Vitta Capuccino",
+    "imagen":"./img/accesorio-05.webp",
+    "categoria": {
+        "nombre":"Accesorios",
+        "id":"accesorios"
+    },
+   "precio": 39000
+    },
+    {
+        "id":"accesorio-travis",
+    "titulo":"Mochila Travis",
+    "imagen":"./img/accesorio-06.webp",
+    "categoria": {
+        "nombre":"Accesorios",
+        "id":"accesorios"
+    },
+   "precio": 79000
+    },
+    {
+        "id":"accesorio-seth",
+    "titulo":"Cartera Seth Capuccino",
+    "imagen":"./img/accesorio-07.webp",
+    "categoria": {
+        "nombre":"Accesorios",
+        "id":"accesorios"
+    },
+   "precio": 60000
+    },
+    {
+        "id":"accesorio-stay",
+    "titulo":"Cartera Stay Hueso",
+    "imagen":"./img/accesorio-08.webp",
+    "categoria": {
+        "nombre":"Accesorios",
+        "id":"accesorios"
+    },
+   "precio": 80000
+    },
+    {
+        "id":"accesorio-stay",
+    "titulo":"Cartera Stay Negro",
+    "imagen":"./img/accesorio-09.png",
+    "categoria": {
+        "nombre":"Accesorios",
+        "id":"accesorios"
+    },
+   "precio": 80000
+    },
+    {
+        "id":"accesorio-tori",
+    "titulo":"Mochila Tori Chocolate",
+    "imagen":"./img/accesorio-010.webp",
+    "categoria": {
+        "nombre":"Accesorios",
+        "id":"accesorios"
+    },
+   "precio": 79000
+    },
+    {
+        "id":"accesorio-vincent",
+    "titulo":"Billeta Vincent Hueso",
+    "imagen":"./img/accesorio-011.webp",
+    "categoria": {
+        "nombre":"Accesorios",
+        "id":"accesorios"
+    },
+   "precio": 39000
+    }
+]
